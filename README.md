@@ -1,7 +1,7 @@
 # ObjectDetectionExample
 Python Object Detection Examples (from Image as well as realtime)
 
-# Result of Object Detection
+# Results of Object Detection
 
 <img src="images/First_prediction.png" width="600" height="450" >
 ![](images/First_prediction.png)
